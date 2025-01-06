@@ -4,6 +4,7 @@ and robust data security through Huffman encoding and decoding.
 # Snapshots of the interface
 ![image](https://github.com/LaibaZaffar/Data-Structures/assets/150477947/dd1c0787-af92-4d5a-bf95-cefdb12e6272)
 ![image](https://github.com/LaibaZaffar/Data-Structures/assets/150477947/0645866f-8520-43b5-939e-1c2253891f8b)
+
 ![image](https://github.com/LaibaZaffar/Data-Structures/assets/150477947/e999817f-a6a6-43aa-bbe3-9ad3d8984f51)
 
 ## Key Features
